@@ -8906,7 +8906,7 @@ button[type=submit] {
 .sellers .share-numbers-section .partners {
   display: flex;
   flex-wrap: wrap;
-  alig-items: center;
+  align-items: center;
   justify-content: center;
   margin: 1.18rem auto 0;
   width: 9.68rem
