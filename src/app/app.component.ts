@@ -15,11 +15,11 @@ export class AppComponent {
     path: '/assets/bodymovin/home/display_2/home_2_display.json',
   };
   constructor(private elementRef: ElementRef) {
-    debugger;
+   // debugger;
      console.log(this.options);
   }
   animationCreated(animationItem: AnimationItem): void {
-    debugger;
+   // debugger;
     console.log(animationItem);
   }
 }
